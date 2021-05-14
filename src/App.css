@@ -2,6 +2,10 @@
   text-align: center;
 }
 
+*{
+box-sizing: border-box;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -12,6 +16,10 @@ a{
   color: black;
 }
 
+button{
+ text-decoration: none !important; 
+ font-family: 'Poppins', sans-serif;
+}
 body{
 
   font-family: 'Poppins', sans-serif;
